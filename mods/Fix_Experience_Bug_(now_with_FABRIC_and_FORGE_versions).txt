@@ -1,0 +1,3 @@
+https://media.forgecdn.net/avatars/387/166/637576853858354709.png
+Fix Experience Bug (now with FABRIC and FORGE versions)
+https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug
